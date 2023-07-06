@@ -1,6 +1,7 @@
 ### :frog: I'm {neeneeninja26}, welcome!
 
 #### :seedling: About Me:
+-  ✈️: I am currently working as a Systems Support Analyst for a supermarket chain 
 -  :mortar_board: I am an information technology student from New Zealand
 - :rocket: I am interested in web development, data analysis, management, and business
 
